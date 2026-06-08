@@ -4,6 +4,10 @@ Vincent Lowe
 
 vlowe@salesforce.com
 
+Cloudshare Virtual Machines: https://use.cloudshare.com/Class/90jk1
+
+Cloudshare Passphrase: Shumba the Running Hummingbird
+
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
