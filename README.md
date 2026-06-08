@@ -10,17 +10,18 @@ Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
 Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:					< Mimeo Key >
+eBook Redemption Key:					US7HRFV3SWSA
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:									https://www.research.net/r/trailheadacademy
 
-Survey ID:										< survey ID >
+Survey ID:										TASM-2138960
 
 -------------------------------------------------------------------------------------------------------------------
-Zoom Link: < Zoom Link >
+Zoom Link:
+https://trailheadacademy.salesforce.com/instructor-classes#class-id=a8yRf000001V9UfIAK:~:text=Zoom%20Meeting%20Link-,Participant,-URL
 
-Meeting ID: < Meeting ID >
+Meeting ID: 84520209233
 
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX401
 
