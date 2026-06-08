@@ -4,23 +4,28 @@ Vincent Lowe
 
 vlowe@salesforce.com
 
+Cloudshare Virtual Machines: https://use.cloudshare.com/Class/90jk1
+
+Cloudshare Passphrase: Shumba the Running Hummingbird
+
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
 
 Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:					< Mimeo Key >
+eBook Redemption Key:					US7HRFV3SWSA
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:									https://www.research.net/r/trailheadacademy
 
-Survey ID:										< survey ID >
+Survey ID:										TASM-2138960
 
 -------------------------------------------------------------------------------------------------------------------
-Zoom Link: < Zoom Link >
+Zoom Link:
+https://trailheadacademy.salesforce.com/instructor-classes#class-id=a8yRf000001V9UfIAK
 
-Meeting ID: < Meeting ID >
+Meeting ID: 84520209233
 
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX401
 
@@ -57,6 +62,10 @@ MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 
 |Track Title|Artist|Notes|
 |-----------|------|-----|
-
+|The Streetb3eater|Quincy Jones|TV theme from Sanford & Son|
+|I Was Doing All Right|Louis Armstrong||
+|Just Breathe|Willie Nelson feat. Lukas Nelson||
+|Stairway to Heaven|Luca Stricagnoli|One man and a guitar with three necks|
+|Sixteen Tons|Geoff Castellucci||
 
 
