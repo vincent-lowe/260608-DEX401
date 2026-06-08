@@ -19,7 +19,7 @@ Survey ID:										TASM-2138960
 
 -------------------------------------------------------------------------------------------------------------------
 Zoom Link:
-https://trailheadacademy.salesforce.com/instructor-classes#class-id=a8yRf000001V9UfIAK:~:text=Zoom%20Meeting%20Link-,Participant,-URL
+https://trailheadacademy.salesforce.com/instructor-classes#class-id=a8yRf000001V9UfIAK
 
 Meeting ID: 84520209233
 
