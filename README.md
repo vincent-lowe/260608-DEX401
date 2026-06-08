@@ -66,10 +66,6 @@ MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 |I Was Doing All Right|Louis Armstrong||
 |Just Breathe|Willie Nelson feat. Lukas Nelson||
 |Stairway to Heaven|Luca Stricagnoli|One man and a guitar with three necks|
-<<<<<<< HEAD
 |Sixteen Tons|Geoff Castellucci||
-=======
-
->>>>>>> 720d4559933a891ebc4e102d618dafd2044ccebd
 
 
