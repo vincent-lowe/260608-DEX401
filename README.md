@@ -76,4 +76,6 @@ Scratchpad
 |Ain't Misbehavin'|Leon Redbone||
 |Here You Come Again|Dolly Parton||
 |Dos Oruguitas|Stephen Joseph||
+|Foggy Mountain Breakdown|Earl Scruggs and Friends||
+
 
