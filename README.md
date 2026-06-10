@@ -59,24 +59,7 @@ Java VM: https://docs.mulesoft.com/general/java-support
 MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 
 ------------------------------------------------------------------------------
-
-%dw 2.0
-output application/json
----
-payload map ( payload01 , indexOfPayload01 ) -> {
-	ID: payload01.ID,
-	code: (payload01.code1
-default "") ++ (payload01.code2 default ""),
-	price: payload01.price default 0,
-	departureDate: payload01.takeOffDate as String default "",
-	origin: payload01.fromAirport default "",
-	destination: payload01.toAirport default "",
-	emptySeats: payload01.seatsAvailable default 0,
-	plane: {
-		"type": payload01.planeType default "",
-		totalSeats: payload01.totalSeats default 0
-	}
-}
+Scratchpad
 
 ------------------------------------------------------------------------------
 
@@ -90,5 +73,9 @@ default "") ++ (payload01.code2 default ""),
 |Sixteen Tons|Geoff Castellucci||
 |Good Morning American|Arlo Guthrie||
 |California|Rebecca Loebe||
-|Ain't Misbehavin'|Leon Redbone||
+|Here You Come Again|Dolly Parton||
+|Dos Oruguitas|Stephen Joseph||
+|Foggy Mountain Breakdown|Earl Scruggs and Friends||
 |Tupeo Honey|Elle Cordova||
+|Ain't Misbehavin'|Leon Redbone||
+
