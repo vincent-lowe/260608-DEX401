@@ -83,3 +83,11 @@ Scratchpad
 |Hello Goodbye|The Beatles||
 |Good Day for a Good Day|Michael Franti and Spearhead||
 |Have You Ever Seen the Rain|Willie Nelson feat. Paula Nelson||
+|How Can You Mend a Broken Heart|Al Green||
+
+
+
+
+
+
+
