@@ -61,18 +61,6 @@ MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 ------------------------------------------------------------------------------
 Scratchpad
 
-http:
-  port: "8081"
-
-api:
-  endpoint: "https://training4-american-260608-api-nt5l2t.5sc6y6-2.usa-e2.cloudhub.io/"
-
-silver:
-  id: "f348e2dfc70f4176891b7cca1d07574e"
-  secret: "C1ACB205bb4e4e41B077861105B8bd33"
-gold:
-  id: "bc5da9d5f2644d808890ca849f1a697e"
-  secret: "f2227aC433064451ADefc4f4958D8465"
 ------------------------------------------------------------------------------
 
 
@@ -94,4 +82,4 @@ gold:
 |Just Dropped In (To See What Condition My Condition Was In)|Willie Nelson||
 |Hello Goodbye|The Beatles||
 |Good Day for a Good Day|Michael Franti and Spearhead||
-
+|Have You Ever Seen the Rain|Willie Nelson feat. Paula Nelson||
