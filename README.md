@@ -81,4 +81,5 @@ Scratchpad
 |It Ain't Over Yet|Rodney Crowell||
 |Just Dropped In (To See What Condition My Condition Was In)|Willie Nelson||
 |Hello Goodbye|The Beatles||
+|Good Day for a Good Day|Michael Franti and Spearhead||
 
