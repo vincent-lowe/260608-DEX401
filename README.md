@@ -87,6 +87,6 @@ Scratchpad
 |Analog Hero|Mark Erelli|Mark wrote this about his dad|
 |Feeling Good|Nina Simone||
 |Pickup Truck Song|Jerry Jeff Walker||
-
+|The Cape|Guy Clark||
 
 
