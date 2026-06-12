@@ -85,8 +85,8 @@ Scratchpad
 |Have You Ever Seen the Rain|Willie Nelson feat. Paula Nelson||
 |How Can You Mend a Broken Heart|Al Green||
 |Analog Hero|Mark Erelli|Mark wrote this about his dad|
-
-
+|Feeling Good|Nina Simone||
+|Pickup Truck Song|Jerry Jeff Walker||
 
 
 
