@@ -88,5 +88,6 @@ Scratchpad
 |Feeling Good|Nina Simone||
 |Pickup Truck Song|Jerry Jeff Walker||
 |The Cape|Guy Clark||
-
+|The Final Countdown|Europe||
+|Crazy He Calls Me|Billie Holiday||
 
